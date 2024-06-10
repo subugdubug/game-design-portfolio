@@ -3,8 +3,10 @@ title: Raz Peleg
 tagline: Game Designer
 description: "My projects portfolio showcasing my Game Design skills."
 baseurl: "/game-design-portfolio"
+url: "https://subugdubug.github.io"
 # paginate: 5
 permalink: pretty
+repository: subugdubug/game-design-portfolio
 
 # About/contact
 author:
@@ -12,8 +14,11 @@ author:
   email: r@zpeleg.com
 
 # Plugins
-#plugins:
-#  - jekyll-paginate
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-github-metadata
 
 # Custom vars
 version: 0.0.1
