@@ -1,2 +1,9 @@
+# Jekyll shit
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
 # macOS Finder shit
 .DS_Store
