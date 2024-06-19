@@ -4,7 +4,7 @@ title: Malshin Turbo
 date: 2024-06-12
 ---
 
-### An Immersive Cyberpunk Side-Scroller: Clean the Streets and Fight Crime.
+### A Cyberpunk Side-Scroller: Clean the Streets and Fight Crime.
 
 **Malshin Turbo** (working title) is a dystopian side-scroller where you play as a city inspector fed up with the decay of his city. With trash littering the streets and crime rampant, it’s your mission to restore order.
 
