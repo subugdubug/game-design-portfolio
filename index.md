@@ -14,7 +14,7 @@ This site aims to showcase my game design skills, focusing on technical knowledg
 Even though it sounds very boilerplate - my biggest strength is problem solving. I love breaking down the challenges, constraints and tools at my disposal, and working with my team to overcome them. Nothing beats the feeling of shared accomplishment.
 
 <div class="image-with-caption">
-  <img src="cover.png" alt="Working in a team">
+  <img src="cover.png" alt="Working in a team" style="filter: grayscale(40%)  brightness(125%) drop-shadow(0px 0px 5px #000) saturate(120%);">
   <p class="caption">That's me on the left in orange. These days my hair is longer, alluding to my experience since this photo was taken.</p>
 </div>
 
