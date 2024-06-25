@@ -92,6 +92,27 @@ h6 {
     max-width: 28rem;
 }
 
+.contact-list {
+    list-style: none;
+    padding: 0;
+}
+
+.contact-list li {
+    margin-bottom: 10px;
+}
+
+.contact-list a {
+    color: inherit;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.contact-list i {
+    margin-right: 8px;
+    font-size: 1.2em;
+}
+
 @media (min-width: 38em) {
     .container {
         max-width: 32rem;
