@@ -21,5 +21,5 @@ plugins:
   - jekyll-github-metadata
 
 # Custom vars
-version: 0.0.1
+version: 0.0.4
 google_analytics_id: #UA-XXXX-Y

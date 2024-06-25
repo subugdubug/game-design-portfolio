@@ -21,7 +21,7 @@ date: 2024-06-12
 I collaborated with a fellow game developer on this project. My responsibilities included game design, level design, combat mechanics, trash collection mechanics, and balancing. My partner focused on the technical implementation of these features.
 
 ## Art Style and Theme
-The game features pixel art with dark cyberpunk themes, immersing players in a world where hope is scarce and public spaces are neglected. As players navigate through the level, they encounter progressively challenging enemies with diverse skills, requiring strategic approaches to combat.
+The game features pixel art with dark cyberpunk themes, immersing players in a world where regard for cleanliness is nonexistent and public spaces are neglected. As players navigate through the level, they encounter progressively challenging enemies with diverse skills, requiring strategic approaches to combat.
 
 <div class="image-with-caption">
   <img src="malshin-turbo-screenshot-2.png" alt="Gameplay Screenshot">
@@ -34,7 +34,7 @@ The game features pixel art with dark cyberpunk themes, immersing players in a w
 - **Shops:** Scattered throughout the level, shops allow players to spend points to restore health, buy power-ups, increase trash carrying capacity, and purchase performance-enhancing drugs for improved combat and speed.
 
 ## Level Design
-Starting with pre-made assets, I refined the game's visual elements using Aseprite to ensure cohesive pixel art that aligns with the cyberpunk aesthetic. Each level is meticulously designed to enhance the gameplay experience and challenge the player progressively.
+Starting with pre-made assets, I refined the game's visual elements using [Aseprite](https://www.aseprite.org/) to ensure cohesive pixel art that aligns with the cyberpunk aesthetic. Each level is meticulously designed to enhance the gameplay experience and challenge the player progressively.
 
 <div class="image-with-caption">
   <img src="malshin-turbo-screenshot-4.png" alt="Dialog Screenshot">
@@ -46,3 +46,8 @@ Working with a professional recording artist and sound engineer, we created orig
 
 ## Development Status
 Currently in its early stages, the project is evolving through continuous playtesting. We are refining and redesigning systems to better understand and enhance the core gameplay experience, ensuring it captivates and retains player interest.
+
+## Launch
+The first version designed for more significant playtesting is scheduled to be released by August 2024, before a wider release on [Itch.io](https://itch.io/) followed by a humble campaign in order to actually reach players and have them play and provide feedback on the game.
+
+Should we receive enough positive feedback, we're eager to dedicate more time to develop this game and maybe even go for a full-blown launch on [Steam](https://steampowered.com/)!

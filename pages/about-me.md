@@ -13,7 +13,7 @@ date_crypto: 2017-01-01
 
 ### Hi, I'm Raz. I'm <span id="age"></span> years old. I live in Tel Aviv, Israel with my wife.
 
-There are many things that I like: Games (duh), music, weightlifting, distance running, film, cooking, coffee, and the list goes on (and gets weirder).
+There are many things that I like: Games (duh), music, weightlifting, distance running, distributed blockchain networks, film, cooking, coffee, and the list goes on (and gets weirder).
 
 I've been building and designing systems in the Blockchain / Cryptocurrency / Web3 space for the past <span id="crypto_age"></span> years, where I first focused on research into protocols and decentralized consensus mechanisms, then moved on to more focused product management roles to create internal tooling, mostly focused around trading, data analysis and insight extraction.
 
@@ -25,10 +25,22 @@ Anyone who's played a well-designed game can share an account of the way they fe
 
 I'm only starting out in my game design journey. I have a lot to learn, much to discover and many mistakes yet to make. I am excited for all of of those.
 
-### Hit me up on:
-- [Email](mailto:r@zpeleg.com)
-- [Telegram](https://t.me/razpeleg)
-- [LinkedIn](https://www.linkedin.com/in/razpeleg/)
+---
+
+## Hit me up on:
+<a href="mailto:r@zpeleg.com">
+    <i class="fas fa-envelope"></i> Email
+</a><br>
+<a href="https://t.me/razpeleg" target="_blank">
+    <i class="fab fa-telegram"></i> Telegram
+</a><br>
+<a href="https://www.linkedin.com/in/razpeleg/" target="_blank">
+    <i class="fab fa-linkedin"></i> LinkedIn
+</a><br>
+<a href="https://github.com/subugdubug" target="_blank">
+    <i class="fab fa-github"></i> GitHub
+</a>
+
 
 
 <script>
